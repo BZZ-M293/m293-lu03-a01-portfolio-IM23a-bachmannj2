@@ -1,0 +1,17 @@
+.m_img {
+    width: 300px;
+    height: 300px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.center-block {
+    width: 50%;
+    margin: 0 auto;
+}
+
+article {
+    background: cyan;
+}
